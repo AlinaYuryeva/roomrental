@@ -19,9 +19,10 @@
 
 На диаграмме размещения изображены узлы выполнения программных компонентов, а также объектов. Показано, что клиентское приложение, установленное на компьютере пользователя взаимодействует с сервером, который содержит в себе базу данных.
 
-## Диаграмма интерфейсов
-![Alt-текст](https://pp.userapi.com/c852320/v852320293/4c0ab/m5h2YQ5HqTQ.jpg "Диаграмма интерфейсов")
-
+## Диаграммы интерфейсов
+![Alt-текст](https://pp.userapi.com/c852228/v852228695/50168/jburulpf69g.jpg "Диаграмма интерфейсов")
+![Alt-текст](https://pp.userapi.com/c852228/v852228695/5017f/dMlLqPOTkqs.jpg "Диаграмма интерфейсов")
+![Alt-текст](https://pp.userapi.com/c852228/v852228695/50189/QAq4g3s0CS4.jpg "Диаграмма интерфейсов")
 Интерфейсы:
 * [IWorker](https://github.com/AlinaYuryeva/roomrental/blob/master/docs/IWorker.md "Интерфейс IWorker")
 * [IClient](https://github.com/AlinaYuryeva/roomrental/blob/master/docs/IClient.md "Интерфейс IClient")
