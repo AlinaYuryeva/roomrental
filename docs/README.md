@@ -23,6 +23,7 @@
 ![Alt-текст](https://pp.userapi.com/c852228/v852228695/50168/jburulpf69g.jpg "Диаграмма интерфейсов")
 ![Alt-текст](https://pp.userapi.com/c852228/v852228695/5017f/dMlLqPOTkqs.jpg "Диаграмма интерфейсов")
 ![Alt-текст](https://pp.userapi.com/c852228/v852228695/50189/QAq4g3s0CS4.jpg "Диаграмма интерфейсов")
+
 Интерфейсы:
 * [IWorker](https://github.com/AlinaYuryeva/roomrental/blob/master/docs/IWorker.md "Интерфейс IWorker")
 * [IClient](https://github.com/AlinaYuryeva/roomrental/blob/master/docs/IClient.md "Интерфейс IClient")
